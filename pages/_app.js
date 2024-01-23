@@ -6,4 +6,4 @@ const MyApp = ({ Component, pageProps }) => {
     </Layout>
   )
 }
-export { MyApp }
+export default MyApp
